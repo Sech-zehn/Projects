@@ -1,0 +1,57 @@
+body
+{
+	background: #AAB7B8;
+	h1 {color: ##4682B4}
+	position:relative;
+	min-height: 100vh;
+	padding-bottom: 2.5rem;
+}
+h3
+{
+    text-align: center; /* "Innominatam au centre*/
+}
+h4
+{
+	color: white; /* couleur des titres de tailles h4 en blanc*/
+	text-shadow: 2px 2px 4px black; /* permet de faire un effet d'ombre sous un texte*/
+}
+hr
+{
+    width: 25%
+
+}
+table
+{
+    border-collapse: collapse;
+}
+td, th /* Mettre une bordure sur les td ET les th */
+{
+    border: 1px solid black;
+}
+progress{
+	color: red;
+}
+.projectshref{
+	color: white;
+}
+.basdepage
+{
+	
+	background-color: black; /* couleur de fond*/
+	color: white;/*couleur écriture*/
+	padding: 250px 0;
+	background: linear-gradient(#AAB7B8, 48%, #000); /* dégradé de couleur*/
+	/*bottom: 0;*/
+	height: 2.5rem;
+	position: 0;
+	width: :100%;
+	padding-bottom: 180px;
+}
+.Copyrightanddate
+{
+	
+	color:white;
+	font-size: 0.8em;
+}
+
+/*margin:0px 100px 100px 0px; top,bottom,right,left*/
