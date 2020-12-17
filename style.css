@@ -1,7 +1,6 @@
 body
 {
 	background: #AAB7B8;
-	h1 {color: ##4682B4}
 	position:relative;
 	min-height: 100vh;
 	padding-bottom: 2.5rem;
@@ -36,21 +35,13 @@ progress{
 }
 .basdepage
 {
-	
-	background-color: black; /* couleur de fond*/
-	color: white;/*couleur écriture*/
-	padding: 250px 0;
-	background: linear-gradient(#AAB7B8, 48%, #000); /* dégradé de couleur*/
-	/*bottom: 0;*/
+	position: fixed;
 	height: 2.5rem;
-	position: 0;
-	width: :100%;
-	padding-bottom: 180px;
+	width: 100%;
+	bottom: 0;
 }
 .Copyrightanddate
-{
-	
-	color:white;
+{	
 	font-size: 0.8em;
 }
 
