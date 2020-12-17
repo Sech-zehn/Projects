@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		 <title>Innominatam Technician</title>
+	 	<link rel="stylesheet" href="style.css" />
+	</head>
+	<body>
+		<!--<body marginwidth="50" marginheight="100" topmargin="100" leftmargin="50">-->
+		
+		<section>
+			<header>
+				<h3>Innominatam</h3>
+			</header><br>
+			<h4>Presentation</h4>
+	 		<p>Hello and thank you to be there, I'm a computer scientist, living in or around 	Paris, France. <br>I'm interested about cybersecurity, for the time being I'm 	beginner in this 		domain. Maybe not for long.</br>
+	 		This page is still incomplete, as things progress you'll see my web page evolve but, for now I don't especially need my page to be esthetic. <br>Here you can see my page's progression : <progress value="15" max="100">
+	 		</p>
+	 	 
+		</section>
+	 
+	 	 
+	 	<hr>
+	 <h4><a class = "projectshref" href="projects.html">Projects</a></h4>
+	 <p> This page will contains all my projects, for now there is nothing because I think those that I made are not very interesting.</p>
+	<hr>
+	 <article>
+		<h4>Contact</h4>
+	 	<p>
+	 		<header>You can contact me by e-mail : <a href="mailto:noid.nameless800@protonmail.com">noid.nameless800@protonmail.com</a>
+	 			<br>You can also find me on instagram I'm often on it & <a href ="https://www.youtube.com/channel/UC-6K2EhMH7rx316In-uW8GQ" target="_blank">youtube</a>, I'm actually trying to 	show what I'm learning at school. Evidently I can't show you all of my courses because somes made by my teachers doesn't have to be shared.
+	 			</br>
+	 	</p></header><!--Sorry for my french accent, I'm working on-->
+	 </article>
+
+
+
+
+	</body>
+	<footer class="basdepage"> 
+<!--<hr>-->
+		<p class="Copyrightanddate"> 
+			Last modfified : 2020-12-16
+		</p>
+	</footer>
+</html>
